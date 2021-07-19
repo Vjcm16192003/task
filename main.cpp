@@ -122,6 +122,7 @@ int main() {
 				cout << "-------FIN RAIZ CUADRADA-------" <<endl;
 				cout << endl; 
 				break; 
+				//jejejejehhejejejejejejejejejejjejejeej
 				}
 		}//Fin del switch 
 	}//Fin del while
