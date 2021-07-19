@@ -123,6 +123,7 @@ int main() {
 				cout << endl; 
 				break; 
 				//jejejejehhejejejejejejejejejejjejejeej
+				//rhrhrhrhhrhrhrhrhrhr
 				}
 		}//Fin del switch 
 	}//Fin del while
